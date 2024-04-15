@@ -1,0 +1,19 @@
+.container-table {
+    font-family: cursive;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    margin: auto;
+    width: 650px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+tr,th,td {
+    border: 1px solid #aaa;
+    text-align: left;
+    
+}
+th {
+    text-align: center;
+    color: red;
+}
+
